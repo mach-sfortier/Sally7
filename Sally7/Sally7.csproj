@@ -20,7 +20,7 @@
 	<AppendRuntimeIdentifierToOutputPath>true</AppendRuntimeIdentifierToOutputPath>
 	<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
 	<RootNamespace>Sally7</RootNamespace>
-	<LangVersion>10.0</LangVersion>
+	<LangVersion>9.0</LangVersion>
     <Nullable>enable</Nullable>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <WarningsNotAsErrors>1591</WarningsNotAsErrors>
