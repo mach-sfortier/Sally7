@@ -30,3 +30,8 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+.hg/
+.hgignore
+.hgtags
+Sally7/packages.lock.json
+ProjectFixConfiguration.xml
