@@ -15,7 +15,7 @@
 	<PackageId>MachFramework.External.Sally</PackageId>
 	<SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
 	<DebugType>portable</DebugType><DebugType>portable</DebugType>
-	<Version>1.0.0</Version>
+	<Version>1.1.0</Version>
 	<AppendTargetFrameworkToOutputPath>true</AppendTargetFrameworkToOutputPath>
 	<AppendRuntimeIdentifierToOutputPath>true</AppendRuntimeIdentifierToOutputPath>
 	<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
